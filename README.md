@@ -19,7 +19,7 @@ Este hito **no puntúa por sí solo**. Forma parte de tu nota de teoría de dos 
   teoría por calidad y extras, según la rúbrica común.
 
 La nota de teoría sale de los **dos controles individuales de laboratorio**
-(martes 17 nov y martes 15 dic), que se corrigen de forma **automática** y usan el mismo
+(martes 24 nov y martes 15 dic), que se corrigen de forma **automática** y usan el mismo
 formato que el examen práctico de enero. Los controles se plantean **sobre el dominio de
 este hito**: cuanto mejor entiendas el código que has escrito aquí, menos te costará el
 control.
